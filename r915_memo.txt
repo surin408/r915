@@ -8,11 +8,13 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://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@github.com/surin408/r915.git
+git remote add origin https://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@github.com/surin408/r915.git
 git push -u origin main
 
-git remote add origin https://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@github.com/surin408/r915.git
+git remote add origin https://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@github.com/surin408/r915.git
 git branch -M main
 git push -u origin main
 
-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 17
+git remote remove origin
+
+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    sep
